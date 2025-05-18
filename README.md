@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **enoki003/enoki003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -11,4 +11,4 @@ In terms of experience, I have taken on challenges such as —— and ——, pu
 My hobbies include music and game development, and I am working on creating a pixel-art RPG using Unity. Recently, I have been challenging myself to implement AI for "Gravity Connect Four" in Java. I also have a keen interest in photography and video editing, focusing on creating creative posts on Instagram.
 
 My future goal is to participate in projects that use data analysis and AI to solve societal issues. Specifically, I am interested in economic analysis and regional revitalization projects us
--->
+
